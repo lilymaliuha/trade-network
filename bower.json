@@ -1,0 +1,21 @@
+{
+  "name": "trade-network",
+  "description": "web application for trading network",
+  "main": "index.js",
+  "authors": [
+    "Liliia Maliuha"
+  ],
+  "license": "None",
+  "homepage": "https://github.com/lilymaliuha/trade-network",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.2"
+  }
+}
